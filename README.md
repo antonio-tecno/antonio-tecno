@@ -1,3 +1,3 @@
-## Bienvendos al repositorio 👋
+## Bienvenidos al repositorio 👋
 
 Estamos aprendiendo...
